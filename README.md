@@ -1,4 +1,4 @@
-# Learn By doing
+# Learn by practicing
 
 - [nodeschool.io](https://nodeschool.io/) 
 - [BeginnerJS](https://beginnerjavascript.com/)
